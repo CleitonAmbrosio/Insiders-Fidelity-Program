@@ -1,6 +1,6 @@
 # "Insiders" Fidelity Program
 
-_Project still under development._
+_Project still under development, currently on a (improvement) 2nd cycle._
 
 ## Business problem
 
